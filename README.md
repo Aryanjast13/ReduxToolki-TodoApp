@@ -9,13 +9,13 @@ I used `reactjs`, `tailwind`, `redux-toolkit`...
 Clone the project
 
 ```bash
-  git clone https://https://github.com/Aryanjast13/ReduxToolki-TodoApp.git
+  git clone https://https://github.com/Aryanjast13/ReduxToolkit-TodoApp.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ReduxToolki-TodoApp
+  cd ReduxToolkit-TodoApp
 ```
 
 Install dependencies
